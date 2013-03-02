@@ -1,4 +1,6 @@
 Gmusic
 ======
 
-Google music implementation in grails and groovy
+Google music implementation in grails.
+
+Mostly a hobby project.
